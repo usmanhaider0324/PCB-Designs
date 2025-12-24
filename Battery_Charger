@@ -1,0 +1,4 @@
+This circuit demonstrates a simple low-current battery charger using the BC547 NPN transistor as a switching and current-limiting element. 
+It is suitable for charging small rechargeable batteries (e.g., NiMH or low-capacity Li-ion with external protection). 
+The design uses a resistor network to control base current and limit charging current. 
+This project is intended for educational purposes and basic understanding of transistor-based charging circuits.
